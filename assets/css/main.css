@@ -1598,7 +1598,7 @@
 	}
 
 		#footer .copyright {
-			color: #ff0000;
+			color: #000000;
 			font-size: 0.9em;
 			margin: 0 0 2em 0;
 			padding: 0 1em;
@@ -1621,11 +1621,3 @@
 			font-family: 'Permanent Marker', cursive;
 		}
 
-		.copyright {
-			color: #000000;
-			font-size: 0.9em;
-			margin: 2.5px;
-			padding: 0 1em;
-			text-align: center;
-			font-weight: bolder;
-		}
